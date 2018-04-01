@@ -60,7 +60,7 @@ public class AddGambar extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_gambar);
         //set title menjadi Add Image
-        setTitle("Add Image");
+        setTitle("Add Picture");
         // Assign FirebaseStorage instance to storageReference.
         storageReference = FirebaseStorage.getInstance().getReference();
 
