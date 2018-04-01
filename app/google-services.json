@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "894588653554",
+    "firebase_url": "https://annisarifqimuafah1202150270mod.firebaseio.com",
+    "project_id": "annisarifqimuafah1202150270mod",
+    "storage_bucket": "annisarifqimuafah1202150270mod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894588653554:android:1d7b9d31fecd92f3",
+        "android_client_info": {
+          "package_name": "id.web.annisa.annisarifqimuafah_1202150270_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894588653554-eqtmse0396bkbgjh5pc3sesdt6ra8ng6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.web.annisa.annisarifqimuafah_1202150270_modul6",
+            "certificate_hash": "1e11bb7273e4f330521e564ada5983cbc3e168af"
+          }
+        },
+        {
+          "client_id": "894588653554-ba7u4q2gu41nfmo5t2ehr5q6gmvn26l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIjlo3y2zjzeShDoHLNUcHo9LRiJ4_ZSM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894588653554-ba7u4q2gu41nfmo5t2ehr5q6gmvn26l3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

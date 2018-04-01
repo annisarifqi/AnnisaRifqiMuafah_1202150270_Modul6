@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AnnisaRifqiMuafah_1202150270_Modul6</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="permission_rationale" />
+    <string name="error_invalid_password" />
+    <string name="error_field_required" />
+    <string name="error_invalid_email" />
+    <string name="error_incorrect_password" />
+    <string name="action_settings">Log Out</string>
+</resources>
